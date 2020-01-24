@@ -1,0 +1,11 @@
+# Site settings
+title: Shared Resoures
+search_enabled: true
+baseurl: /pages-test
+url: https://ashtonmeuser.github.io
+permalink: /:title
+
+# Build settings
+exclude: [README.md]
+markdown: kramdown
+remote_theme: pmarsceill/just-the-docs

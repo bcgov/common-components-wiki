@@ -1,6 +1,6 @@
 ---
 title: Example
-parent: Documentation
+parent: Team News
 nav_order: 1
 ---
 

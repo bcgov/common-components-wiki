@@ -6,6 +6,6 @@ url: https://bcgov.github.io
 permalink: /:title
 
 # Build settings
-exclude: [README.md]
+exclude: [README.md, CODE-OF-CONDUCT.md, CONTRIBUTING.md]
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs

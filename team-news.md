@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Team News
 nav_order: 3
 has_children: true
 has_toc: true

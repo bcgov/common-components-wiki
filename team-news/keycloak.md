@@ -1,6 +1,6 @@
 ---
 title: Keycloak
-parent: Documentation
+parent: Team News
 nav_order: 2
 ---
 

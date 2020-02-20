@@ -1,8 +1,8 @@
 # Site settings
 title: Shared Resoures
 search_enabled: true
-baseurl: /pages-test
-url: https://ashtonmeuser.github.io
+baseurl: /common-components-wiki
+url: https://bcgov.github.io
 permalink: /:title
 
 # Build settings

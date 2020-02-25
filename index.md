@@ -13,7 +13,6 @@ We’re working to amplify these teams’ important work. Our user-focused team 
 
 We’re part of the Exchange Lab team, and you can find us at the lab at 1012 Douglas Street in Victoria, British Columbia.
 
-
 ## What you'll find here
 The Common Components team maintains this site. This is where we’ll share what we’re working on, what we learn and how our work is going. 
 
@@ -30,7 +29,6 @@ We expect to post and maintain the following content:
 You can keep up to date on our work here. We’ll also post weeknotes every week where you can follow our progress. 
 
 For developer-specific resources for any of our products and services, please see the [DevHub](http://developer.gov.bc.ca/).
-
 
 ## How we work
 

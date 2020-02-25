@@ -11,7 +11,7 @@ To that end, we’re conducting extensive user research with technologists, desi
 
 ## Launchpad - our first prototype
 
-We’re calling our first product idea Launchpad, a family of simple, OpenShift compatible boilerplate applications. It would work by allowing users to pick their frontend, API and database from a few modern, commonly used languages and frameworks, and quickly set up and deploy a basic “Hello World” application on BC’s OpenShift platform. 
+We’re calling our first product idea Launchpad, a family of simple, boilerplate applications that are compatible with the BC Government's Platform as a Service (PaaS) Platform. It would work by allowing users to pick their frontend, API and database from a few modern, commonly used languages and frameworks, and quickly set up and deploy a basic “Hello World” application on BC’s PaaS Platform.
 
 We think this will help shorten the time it takes teams to deliver first versions of their digital services. Learn more about Launchpad on our [mission control board](https://trello.com/c/Axaivmaj). Our first two-week mission was to create a light version of a Launchpad boilerplate app and to test it with the developer community. You can find what we built [here](https://github.com/bcgov/openshift-launchpad). Please try it out and [send us your feedback](mailto:jp.fournier@gov.bc.ca)!
 

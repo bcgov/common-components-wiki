@@ -1,0 +1,32 @@
+---
+title: 2020-02-28
+parent: Week Notes
+---
+# BC Common Components (CoCo) Weeknote 7:
+> ## 2020-02-28
+___
+
+This is the seventh post in a series of weeknotes recapping what the BC Common Components (we’ve taken to calling it “CoCo”) team has done this week and what we plan to accomplish next week. All previous weeknotes are saved here. There’s also now a CoCo mission control dashboard you can track [here](https://trello.com/b/vqqXYk3l/common-components-mission-control).
+ 
+## Done
+- Held our Sprint 2 review, where we demoed the next version of Launchpad (with Continuous Integration) and our user research findings. This review marked the end of our official [discovery phase](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works). We’re now starting an [alpha phase](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works).
+- Planned our next sprint. Our goals are to:
+  1. Get uptake on launchpad to get validation that we’re on the right path.
+  1. Design a common component library
+- Met with GDX to discuss collaboration on a BC “Design and Delivery System” that would include a common components library. We have a path forward!
+- Issued a [public pull request](https://github.com/bcgov/openshift-launchpad/tree/release) to get feedback from the government tech community on Launchpad.
+- Decided how we’ll merge boilerplates for multiple tech stacks now that the NR Common Services team submitted their Vue/Node boilerplate to Launchpad. We’ve designed a conceptual user experience for a choose your own adventure Launchpad.
+- Launched our [first blog post](https://medium.com/exchange-bc/common-components-bringing-common-solutions-to-common-challenges-in-the-bc-government-29b835ffd370) (thanks Rumon!).
+
+## Doing Next
+- Hold a short (<1day) design sprint with the entire team to crowdsource ideas for the CoCo library.
+- Publish our user research findings on our wiki.
+- Work on Sprint 3, focused on attracting users to Launchpad and designing the CoCo library.
+- Hold our next betting table meeting. We’ll be bringing the following items forward:
+  1. Common Components Library
+  1. Next version of Launchpad
+  1. NotifyBC
+  1. Keycloak managed service
+  1. Service offering and consumption process
+  1. Potential:  offline mobile mapping component 
+- Provide support for this week’s [open source mapping hackathon](https://www.eventbrite.ca/e/hackathon-exchange-lab-iitd-development-and-digital-services-tickets-95500048215) aiming to build an offline disconnected mobile component. 

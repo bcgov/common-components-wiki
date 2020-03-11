@@ -3,7 +3,7 @@ title: Reading and Research
 nav_order: 5
 ---
 
-#Reading and Research
+#Reading and Resources
 
 ## Understanding Government as a Platform
 

@@ -1,9 +1,9 @@
 ---
-title: Reading and Research
+title: Reading and Resources
 nav_order: 3
 ---
 
-#Reading and Research
+#Reading and Resources
 
 ## Understanding Government as a Platform
 

@@ -3,7 +3,7 @@ title: User Research
 nav_order: 3
 ---
 
-#User Research Summary
+# User Research Summary
 
 ## Overview
 
@@ -36,11 +36,11 @@ Based on our research, we came up with a set of design criteria that should guid
 
 Common Components should:
 
-- *Be easy to find*. Teams struggle to find reusable components today, and wanted an easy place to go to find BC’s common components. Notably, teams often go to Google first to find reusable components built by other teams in BC, so search engine optimization (SEO) is also important.
-- *Have simple, plain-language descriptions*. Teams need simple, plain-language descriptions of common components, including key features. This should be easy to read and understand for everyone - not just technologists.
-- *Be easy to onboard to*. Once they’ve evaluated components, teams look for good developer documentation with clear instructions, sample implementations and even a sandbox to test a component. All of this can remove friction and facilitate self-serve onboarding.
-- *Have published usage information*. Common components aren’t common if they aren’t being used. Teams like to see usage data, like the number of services onboarded or the number of transactions. This helps inform their decisions about whether or not to onboard to a component.
-- *Include user testimonials and reviews*. One of the first questions teams ask when evaluating components is whether their peers like it or not. Having an easy way to see reviews and testimonials from existing users will help teams decide whether or not to onboard to a component. In absence of this, technologists have been polling a “shadow network” of knowledgeable architects to inform whether or not to onboard to a component.
-- *Be supported*, with clearly articulated uptime and support information. We learned a lot about how much teams dread “shelfware” software that isn’t supported. Before they onboard to a common component, they want to know that someone is supporting it. Teams running critical apps also care deeply about uptime and SLAs.
+- _Be easy to find_. Teams struggle to find reusable components today, and wanted an easy place to go to find BC’s common components. Notably, teams often go to Google first to find reusable components built by other teams in BC, so search engine optimization (SEO) is also important.
+- _Have simple, plain-language descriptions_. Teams need simple, plain-language descriptions of common components, including key features. This should be easy to read and understand for everyone - not just technologists.
+- _Be easy to onboard to_. Once they’ve evaluated components, teams look for good developer documentation with clear instructions, sample implementations and even a sandbox to test a component. All of this can remove friction and facilitate self-serve onboarding.
+- _Have published usage information_. Common components aren’t common if they aren’t being used. Teams like to see usage data, like the number of services onboarded or the number of transactions. This helps inform their decisions about whether or not to onboard to a component.
+- _Include user testimonials and reviews_. One of the first questions teams ask when evaluating components is whether their peers like it or not. Having an easy way to see reviews and testimonials from existing users will help teams decide whether or not to onboard to a component. In absence of this, technologists have been polling a “shadow network” of knowledgeable architects to inform whether or not to onboard to a component.
+- _Be supported_, with clearly articulated uptime and support information. We learned a lot about how much teams dread “shelfware” software that isn’t supported. Before they onboard to a common component, they want to know that someone is supporting it. Teams running critical apps also care deeply about uptime and SLAs.
 
 

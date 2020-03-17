@@ -18,6 +18,10 @@ We started our user research by identifying and interviewing users of Common Com
 - *Procurement/Contract Managers* who shape procurement processes;
 - *British Columbians* - the people and businesses that use online government services.
 
+## Technologist user journey
+
+![Technologist User Journey](https://bcgov.github.io/common-components-wiki/images/user_research/COCO_User_Journey_Map_Technologist_Ricky_Hawkins_R1_Simplified.png)
+
 ## Discovery Research
 
 In January 2020, the Common Components Team began a Discovery Phase to understand our users and the problems we’re trying to solve with Common Components. 

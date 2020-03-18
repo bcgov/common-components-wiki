@@ -20,7 +20,7 @@ We started our user research by identifying and interviewing users of Common Com
 
 ## Technologist user journey
 
-![Technologist User Journey](https://bcgov.github.io/common-components-wiki/images/user_research/COCO_User_Journey_Map_Technologist_Ricky_Hawkins_R1_Simplified.png)
+![Technologist User Journey](https://bcgov.github.io/common-components-wiki/media/user_research/COCO_User_Journey_Map_Technologist_Ricky_Hawkins_R1_Simplified.png)
 
 ## Discovery Research
 

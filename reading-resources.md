@@ -15,7 +15,7 @@ nav_order: 5
 - [Product management at 18F, part 3: Products and Platforms](https://18f.gsa.gov/2018/12/20/product-management-at-18F-part-3/) - 18F
 
 ## Common components from around the world
-- [Register of common government components](https://platformland.github.io/government-common-platforms/data/common-platforms/https://platformland.github.io/government-common-platforms/data/common-platforms/) - Richard Pope
+- [Register of common government components](https://platformland.github.io/government-common-platforms/data/common-platforms/) - Richard Pope
 - [New South Wales](https://www.digital.nsw.gov.au/design-system/solutions)
 - [Singapore](https://www.developer.gov.sg/technologies/)
 - [United Kingdom](https://www.gov.uk/service-toolkit#gov-uk-services)

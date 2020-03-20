@@ -1,6 +1,7 @@
 ---
 title: Sprint 3 - Still Relevant
 parent: Progress and Results
+nav_order: 3
 ---
 # Sprint 3 - Still Relevant
 For this sprint, we spent some time to review our backlog and determine what tasks are still relevant given the community feedback and user research learnings we have gathered so far. From the engagement with our [public PR](https://github.com/bcgov/openshift-launchpad/pull/30) for [OpenShift Launchpad](https://github.com/bcgov/openshift-launchpad) we learned that:

@@ -1,6 +1,7 @@
 ---
 title: Sprint 1 - Blastoff!
 parent: Progress and Results
+nav_order: 1
 ---
 # Sprint 1 - Blastoff!
 After completing a number of inception tasks following a [Kanban](https://www.atlassian.com/agile/kanban) approach, the Common Components Team ("CoCo") transitioned to two week sprints as part of our [agile delivery process](https://developer.gov.bc.ca/Agile-Delivery-Process/Agile-Delivery-Process). In our first sprint we **blasted off** with initial [user research](https://bcgov.github.io/common-components-wiki/user-research) and our first prototype, called the [OpenShift Launchpad](https://github.com/bcgov/openshift-launchpad).

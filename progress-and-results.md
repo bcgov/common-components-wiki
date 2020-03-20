@@ -1,6 +1,7 @@
 ---
 title: Progress and Results
 nav_order: 6
+has_children: true
 ---
 
 # Progress and Results

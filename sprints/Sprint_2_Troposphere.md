@@ -1,6 +1,7 @@
 ---
 title: Sprint 2 - Troposphere
 parent: Progress and Results
+nav_order: 2
 ---
 # Sprint 2 - Troposphere
 In our second sprint we continued to focus on improvements to [OpenShift Launchpad](https://github.com/bcgov/openshift-launchpad) in order to reach a stable point for a [public PR](https://github.com/bcgov/openshift-launchpad/pull/30) where we invite community feedback. This has been shared widely within the BC Exchange Lab and is publicly accessible for anyone to review and comment.

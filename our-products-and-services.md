@@ -1,6 +1,7 @@
 ---
 title: Our Products and Services
 nav_order: 5
+has_children: true
 ---
 
 # Our Products and Services

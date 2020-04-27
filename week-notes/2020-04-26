@@ -1,0 +1,26 @@
+---
+title: 2020-04-26
+parent: Week Notes
+---
+# BC Common Components (CoCo) Weeknote 15
+> ## 2020-04-26
+___
+
+This is a weekly post recapping what the BC Common Components “CoCo” team has done this week and what we plan to accomplish next week. 
+
+This week's note is another special COVID-19 edition of our weeknotes. We've been iteratively improving the two new services we launched in the past two weeks in response to user feedback.
+
+## Done
+- Launched a new digital service to ensure the safety of [hundreds of temporary farm workers coming to the Province](https://www.theglobeandmail.com/canada/british-columbia/article-western-canada-measures-in-place-to-get-temporary-foreign-farm/). We began work on this initiative on Friday April 17 and launched on Monday April 20. [See a link to the app here](https://farmoperatorscreening.gov.bc.ca/). This pace of development was made possible by reusing code from the enhanced travel screening service and by working on cloud infrastructure. 
+- Continued iteratively improving the [enhanced travel screening service](https://www.travelscreening.gov.bc.ca/) in partnership with the Ministry of Health and Service B.C., which supports British Columbians returning from out-of-country to self isolate. 
+- Made some minor improvements to the landing pages we built for BC211.
+- Received a pull request from the [OrgbookBC](https://orgbook.gov.bc.ca/en/home) team for our farm operator screening app to allow users to auto-complete their business name by pulling from the Orgbook in real time. We'll further explore implementing this feature this week.
+- Held a retrospective to reflect on our fast-paced work over the past four week and discuss how we can improve our work processes, and how the lessons we’re learning on these initiatives can inform our priority common components.
+
+## Doing Next
+- Continuously improve both services in response to user feedback.
+- Complete a major database migration for the enhanced travel screening service to support better data-driven decision making.
+- Implement a new chat service for BC211.
+- Explore integrating OrgBookBC into the farm operator screening status.
+- Hold a virtual sprint review on Wednesday April 29th to show our work over the past four weeks.
+- Plan how we’ll transition to a more sustainable delivery cadence over the next few weeks.

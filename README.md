@@ -1,3 +1,5 @@
+[![img](https://img.shields.io/badge/Lifecycle-Retired-d45500)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+
 # GitHub Pages Test
 
 A basic GitHub Pages site built using Jekyll and Markdown via kramdown.
